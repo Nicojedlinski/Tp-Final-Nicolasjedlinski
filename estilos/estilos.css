@@ -84,7 +84,7 @@ h3{
 
 
 
-.imagenesMiEquipo {
+.imagenesMiEquipo{
     flex-direction: row;
     width: 10%;
     margin: 2%;
@@ -93,7 +93,6 @@ h3{
     justify-content: space-between;
     align-content:space-around ;
 }
-
 form{
     margin: 12px;
     display: grid;
@@ -181,9 +180,6 @@ form{
         display: flex;
         flex-direction: column;
         justify-content: center;
-    }
-    .main img{
-        width: 90%;
     }
 }
 
@@ -345,60 +341,60 @@ form{
 }
 
 @keyframes .nico {
-0% {
-    text-transform: capitalize;
+    0% {
+      text-transform: capitalize;
     }
-50% {
-    text-decoration: solid;
+    50% {
+      text-decoration: solid;
     }
-100% {
-    background-color: none;
-    text-decoration: none;
-    height:30px;
-}
-}
+    100% {
+      background-color: none;
+      text-decoration: none;
+      height:30px;
+    }
+  }
 
-.nickropa{
+  .nickropa{
     text-align: center;
     text-decoration: none;
     color: aliceblue;
-}
+  }
 
-.navbar-brand{
+  .navbar-brand{
     color: white;
-}
+  }
 
-.nav-link{
+  .nav-link{
     color: white;
-}
+  }
 
-.nav-item{
+  .nav-item{
     color: white;
-}
+  }
 
-.collapse navbar-collapse{
+  .collapse navbar-collapse{
     color: white;
-}
+  }
 
-#home{
+  #home{
     color: white;
-}
+  }
 
-.boton{
+  .boton{
     background-color: white;
     text-align: center;
     text-decoration: none;
     color: black;
     border-radius: 8px;
-}
+  }
 
-.boton a{
+  .boton a{
     text-align: center;
-}
+  }
 
-.direcBoton{
+  .direcBoton{
     text-align: center;
     height: 60px;
     font-size: 40px;
     
-}
+  }
