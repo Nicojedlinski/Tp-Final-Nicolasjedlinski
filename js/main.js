@@ -1,4 +1,4 @@
-let edad= 23
+/*let edad= 23
 edad=30
 
 let nombre= "nicolas"
